@@ -27,6 +27,7 @@
 
 ```bash
 python --version
+```
 
 ## 参考文献
 
