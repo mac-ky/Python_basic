@@ -317,8 +317,6 @@ print(type(Se_2))
     <class 'set'>
 
 
-### 各データ型には固有の機能(メソッド)が備わっている．
-
 ### データ型の変換
 データ型を変換するための組み込み関数がいくつか用意されている．
 
@@ -388,14 +386,14 @@ changed_St_float = float(St_float)
 
 print(type(St_int))
 print(type(changed_St_int))
-print(type(St_int))
-print(type(changed_St_int))
+print(type(St_float))
+print(type(changed_St_float))
 ```
 
     <class 'str'>
     <class 'int'>
     <class 'str'>
-    <class 'int'>
+    <class 'float'>
 
 
 
